@@ -1,32 +1,37 @@
 # 2020 Fundamentals of Data Analysis Project
 
 ## Summary of Assignment
-This repository contains my fundamentals of data analysis assignment 2020. It looks at liinear regression using Python on the pwerproduction dataset.  ??????? My notebook contains explanation for each of the   lines of input code with  lines of output code.
+This repository contains my fundamentals of data analysis project 2020. It looks at linear regression using Python on the pwerproduction dataset.  ??????? My notebook contains explanation for each of the   lines of input code with  lines of output code.
 
 I commenced work on this assignment on 24th October 2020 and completed work for the deadline of 8th January 2021.
 
-See here for the Assignment Instructions 2020
+[See here for the Assignment Instructions 2020](https://github.com/LauraBrogan/2020-Fundamentals-Project/blob/main/assessment%20(5).pdf)
 
 ## Liabries used in this Assignment
-I impoted: Matplotlib, Seaborn
+I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
 
-Matplolib is a Python 20 plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms.
+* Matplolib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive enviroments across platforms.
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high level interface for drawing attractive statistical graphics.
+* Seaborn is a Python visualization library based on matplotlib. It provides a high level interface for drawing attractive statistical graphics.
+
+* NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+* Pandas is an open source, BDS-licenced libary providing high-oerfimance, easy-to-use data structures and data analysis tools.
+
+* Scikit-Learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.(1)
 
 ## Downloading My Repositiory from git hub
-Go to Git Hub using the following link Click Here:Click Here:
-Click the download button
-
+1. Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/2020-Fundamentals-Project)
+2. Click the download button
 ## Whats contained in the repository
 This repository contains the following files:
 
-ProgDA_Assignment(3).pdf - Assignment Instructions
-Licence file
-2020 Programming Assignment.ipynb - Jupyter notebook
-README.md - This document
++ ProgDA_Assignment(3).pdf - Assignment Instructions
++ Licence file
++ 2020 Programming Assignment.ipynb - Jupyter notebook
++ README.md - This document
 
-## Running the Jupyter Notebook 1
+## Running the Jupyter Notebook 2
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows): jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
 
 When started, the Jupyter Notebook App can access only files within its start-up folder (including any sub-folder). No configuration is necessary if you place your notebooks in your home folder or subfolders. Otherwise, you need to choose a Jupyter Notebook App start-up folder which will contain all the notebooks.
@@ -40,9 +45,10 @@ Launch the Jupyter Notebook App (see previous section). In the Notebook Dashboar
 References
 Readme References:
 
-1.Running the Jupyter Notebook - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+1.Scikit-Learn  https://en.wikipedia.org/wiki/Scikit-learn
+2.Running the Jupyter Notebook - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 
-***Laura Brogan /2020
+Laura Brogan 04/01/2021
 
 
 
