@@ -5,7 +5,7 @@ This repository contains my fundamentals of data analysis project 2020. It looks
 
 I commenced work on this assignment on 24th October 2020 and completed work for the deadline of 8th January 2021.
 
-[See here for the Assignment Instructions 2020](https://github.com/LauraBrogan/2020-Fundamentals-Project/blob/main/assessment%20(5).pdf)
+[See here for the Assignment Instructions 2020](https://learnonline.gmit.ie/mod/url/view.php?id=104055)
 
 ## Liabries used in this Assignment
 I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
@@ -26,10 +26,10 @@ I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
 ## Whats contained in the repository
 This repository contains the following files:
 
-+ ProgDA_Assignment(3).pdf - Assignment Instructions
 + Licence file
 + 2020 Programming Assignment.ipynb - Jupyter notebook
 + README.md - This document
++ powerproduction.csv - data file
 
 ## Running the Jupyter Notebook 2
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (Windows) or by typing in a terminal (cmd on Windows): jupyter notebook This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
