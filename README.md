@@ -1,9 +1,10 @@
 # 2020 Fundamentals of Data Analysis Project
 
 ## Summary of Assignment
-This repository contains my fundamentals of data analysis project 2020. It looks at linear regression using Python on the pwerproduction dataset.  ??????? My notebook contains explanation for each of the   lines of input code with  lines of output code.
+This repository contains my fundamentals of data analysis project 2020. It looks at linear regression using Python on the pwerproduction dataset.  My notebook contains explanation for each of the lines of input and output code.
 
 I commenced work on this assignment on 24th October 2020 and completed work for the deadline of 8th January 2021.
+I did struggle towards the end of completion trying to correct some errors.
 
 [See here for the Assignment Instructions 2020](https://learnonline.gmit.ie/mod/url/view.php?id=104055)
 
@@ -23,6 +24,7 @@ I impoted: Matplotlib, Seaborn, Numpy, Pandas, Scikit-Learn
 ## Downloading My Repositiory from git hub
 1. Go to Git Hub using the following link [Click Here:](https://github.com/LauraBrogan/2020-Fundamentals-Project)
 2. Click the download button
+
 ## Whats contained in the repository
 This repository contains the following files:
 
